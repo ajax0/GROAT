@@ -1,2 +1,4 @@
 # GROAT
-Groat Solana Token 
+A repo related to the Groat Solana token.
+
+Currently hosting the GROAT logo.
